@@ -1,6 +1,7 @@
-# Madhav_Store_PowerBI_Dashboard
+# Madhav Store PowerBI Dashboard
 Professional Power Bi Dashboard
 
 Complete Power BI project using retail store sales data 
 
-Watch tutorial video on YouTube :)
+DashBoard:-
+![Madhav Store dashboard](https://github.com/user-attachments/assets/53bae512-c995-45b2-ae35-ac2571dba73c)
